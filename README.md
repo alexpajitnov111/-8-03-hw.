@@ -1,4 +1,4 @@
-# Домашнее задание к занятию "`Название занятия`" - `Фамилия и имя студента`
+# Домашнее задание к занятию «Что такое DevOps. СI/СD»
 
 
 ### Инструкция по выполнению домашнего задания
@@ -33,10 +33,9 @@
 
 В качестве ответа пришлите скриншоты с настройками проекта и результатами выполнения сборки.
 
-![https://github.com/alexpajitnov111/8-03-hw./blob/main/img/1-1.png](img/8-02/1-1.pn
+<img src = "https://github.com/alexpajitnov111/8-03-hw./blob/main/img/08-1/1-1.png" width = 100%>
 
-![](img/8-02/1-2.png)
-
+<img src = "https://github.com/alexpajitnov111/8-03-hw./blob/main/img/08-1/1-2.png" width = 100%>
 
 ---
 
@@ -49,7 +48,7 @@
 
 В качестве ответа пришлите скриншоты с настройками проекта и результатами выполнения сборки.
 
-![](img/8-02/2-1.png)
+<img src = "https://github.com/alexpajitnov111/8-03-hw./blob/main/img/08-1/2-1.png" width = 100%>
 
 ```
 pipeline {
@@ -84,9 +83,9 @@ pipeline {
 
 В качестве ответа пришлите скриншоты с настройками проекта и результатами выполнения сборки.
 
-![](img/8-02/3-1.png)
+<img src = "https://github.com/alexpajitnov111/8-03-hw./blob/main/img/08-1/3-1.png" width = 100%>
 
-![](img/8-02/3-2.png)
+<img src = "https://github.com/alexpajitnov111/8-03-hw./blob/main/img/08-1/3-2.png" width = 100%>
 
 ```
 pipeline {

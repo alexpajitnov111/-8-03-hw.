@@ -33,7 +33,7 @@
 
 В качестве ответа пришлите скриншоты с настройками проекта и результатами выполнения сборки.
 
-<img src = "https://github.com/alexpajitnov111/8-03-hw./blob/main/img/08-1/1-1.png" width = 100%>
+<img src = "https://github.com/alexpajitnov111/8-03-hw./blob/main/img/08-1/1-1.png" width = 50%>
 
 <img src = "https://github.com/alexpajitnov111/8-03-hw./blob/main/img/08-1/1-2.png" width = 100%>
 

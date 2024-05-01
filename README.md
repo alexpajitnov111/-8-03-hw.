@@ -35,7 +35,7 @@
 
 <img src = "https://github.com/alexpajitnov111/8-03-hw./blob/main/img/08-1/1-1.png" width = 50%>
 
-<img src = "https://github.com/alexpajitnov111/8-03-hw./blob/main/img/08-1/1-2.png" width = 100%>
+<img src = "https://github.com/alexpajitnov111/8-03-hw./blob/main/img/08-1/1-2.png" width = 50%>
 
 ---
 
@@ -48,7 +48,7 @@
 
 В качестве ответа пришлите скриншоты с настройками проекта и результатами выполнения сборки.
 
-<img src = "https://github.com/alexpajitnov111/8-03-hw./blob/main/img/08-1/2-1.png" width = 100%>
+<img src = "https://github.com/alexpajitnov111/8-03-hw./blob/main/img/08-1/2-1.png" width = 50%>
 
 ```
 pipeline {
@@ -83,9 +83,9 @@ pipeline {
 
 В качестве ответа пришлите скриншоты с настройками проекта и результатами выполнения сборки.
 
-<img src = "https://github.com/alexpajitnov111/8-03-hw./blob/main/img/08-1/3-1.png" width = 100%>
+<img src = "https://github.com/alexpajitnov111/8-03-hw./blob/main/img/08-1/3-1.png" width = 50%>
 
-<img src = "https://github.com/alexpajitnov111/8-03-hw./blob/main/img/08-1/3-2.png" width = 100%>
+<img src = "https://github.com/alexpajitnov111/8-03-hw./blob/main/img/08-1/3-2.png" width = 50%>
 
 ```
 pipeline {

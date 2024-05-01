@@ -56,7 +56,7 @@ pipeline {
  agent any
  stages {
   stage('Git') {
-   steps {git 'https://github.com/romanishkov/sdvps-materials.git'}
+   steps {git 'https://github.com/alexpajitnov111/sdvps-materials.git'}
   }
   stage('Test') {
    steps {
@@ -96,7 +96,7 @@ pipeline {
  agent any
  stages {
   stage('Git') {
-   steps {git 'https://github.com/romanishkov/sdvps-materials.git'}
+   steps {git 'https://github.com/alexpajitnov111/sdvps-materials.git'}
   }
   stage('Test') {
    steps {
@@ -129,5 +129,3 @@ pipeline {
 Подсказка: используйте переменную BUILD_NUMBER.
 
 В качестве ответа пришлите скриншоты с настройками проекта и результатами выполнения сборки.
-
-```Уже сделано в задании 3.```
